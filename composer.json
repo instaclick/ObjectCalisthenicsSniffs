@@ -1,0 +1,12 @@
+{
+    "name": "instaclick/object-calisthenics-sniffs",
+    "description": "Object Calisthenics sniffs for PHP_CodeSniffer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Instaclick Inc.",
+            "homepage": "http://instaclick.com/"
+        }
+    ],
+    "target-dir": "ObjectCalisthenics"
+}
