@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ruleset name="Instaclick">
+    <description>Object Calisthenics Sniffs</description>
+
+    <!-- OC#2 - ObjectCalisthenics.ControlStructures.NoElse -->
+    <!-- OC#6 - ObjectCalisthenics.Classes.SmallClass -->
+
+</ruleset>

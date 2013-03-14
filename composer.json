@@ -8,5 +8,13 @@
             "homepage": "http://instaclick.com/"
         }
     ],
-    "target-dir": "ObjectCalisthenics"
+    "target-dir": "ObjectCalisthenics",
+    "autoload": {
+        "classmap": [
+            "ObjectCalisthenics/Sniffs/"
+        ]
+    },
+    "require": {
+        "nikic/php-parser": "dev-master"
+    }
 }
