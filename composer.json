@@ -15,6 +15,6 @@
         ]
     },
     "require": {
-        "nikic/php-parser": "dev-master"
+        "nikic/php-parser": "~1.0"
     }
 }
